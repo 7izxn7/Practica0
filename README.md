@@ -31,6 +31,8 @@ ls -l
 
 [Enlace a la pagina web de Steam](https://store.steampowered.com/?l=spanish)
 
+[Enlace al documento .md](./otroDocumento.md)
+
 # Imágenes
 
 ![Imagen externa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Yb86_DJTzC-TAcb3YGbyZmZVq_tZo0xRzXUmxPqi9Q&s=10)
@@ -44,3 +46,10 @@ ls -l
 * Huevos
 * Arroz
 
+# Tabla
+
+| Lunes | Martes | Miercoles 
+| --- | --- | --- | ---
+|  A  |  D  |  G 
+|  B  |  E  |  H 
+|  C  |  F  |  I 
